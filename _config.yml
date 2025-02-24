@@ -3,9 +3,8 @@ title: Tech Reviews Blog
 description: Stay updated with the latest tech news and reviews!
 
 plugins:
-- jekyll-include-cache
 - jekyll-feed
-- jekyll-seo-tag
+ - jekyll-seo-tag
 future: true
 paginate: 5
 paginate_path: "/page:num/"
