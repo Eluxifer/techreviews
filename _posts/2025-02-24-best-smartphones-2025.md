@@ -6,6 +6,7 @@ categories: smartphones tech
 author: "Your Name"
 description: "Discover the best smartphones of 2025 with our expert reviews, comparisons, and buying guide."
 image: /assets/images/best-smartphones-2025.jpg
+permalink: /best-smartphones-2025/
 ---
 
 ## 📱 Best Smartphones of 2025 – Our Top Picks
