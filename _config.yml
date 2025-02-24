@@ -3,8 +3,19 @@ title: Tech Reviews Blog
 description: Stay updated with the latest tech news and reviews!
 
 plugins:
-- jekyll-feed
- - jekyll-seo-tag
+- jekyll-seo-tag 
+- jekyll-coffeescript 
+- jekyll-commonmark-ghpages
+- jekyll-gist
+- jekyll-github-metadata 
+- jekyll-paginate
+- jekyll-relative-links 
+- jekyll-optional-front-matter 
+- jekyll-readme-index 
+- jekyll-default-layout 
+- jekyll-titles-from-headings 
+- jekyll-remote-theme 
+- jekyll-include-cache
 future: true
 paginate: 5
 paginate_path: "/page:num/"
