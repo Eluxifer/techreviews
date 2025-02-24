@@ -1,4 +1,4 @@
-theme: minima
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 title: Tech Reviews Blog
 description: Stay updated with the latest tech news and reviews!
 
