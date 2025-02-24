@@ -3,4 +3,6 @@ title: Tech Reviews Blog
 description: Stay updated with the latest tech news and reviews!
 
 plugins:
-jekyll-include-cache
+- jekyll-include-cache
+- jekyll-feed
+- jekyll-seo-tag
