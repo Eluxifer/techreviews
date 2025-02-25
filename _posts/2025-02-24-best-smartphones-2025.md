@@ -1,4 +1,4 @@
-x---
+---
 layout: post
 title: "Best Smartphones of 2025 – Top Picks & Reviews"
 date: 2025-02-24
@@ -6,12 +6,11 @@ categories: smartphones tech
 author: "eluxifer"
 description: "Discover the best smartphones of 2025 with our expert reviews, comparisons, and buying guide."
 image: /assets/images/best-smartphones-2025.jpg
-
 ---
 
 ## 📱 Best Smartphones of 2025 – Our Top Picks
 
-The smartphone market in 2025 is **more advanced than ever**, featuring AI-powered cameras, ultra-fast processors, and sleek designs. After thorough testing, we’ve **picked the best smartphones** for performance, battery life, and value.
+The smartphone market in 2025 is **more advanced than ever**, featuring AI-powered cameras, ultra-fast processors, and sleek designs. After thorough testing, we’ve **picked the best smartphones*[...]
 
 ### 🔥 1. iPhone 16 Pro Max – **Best Overall**
 - **🔋 Battery**: 28-hour life  
@@ -54,4 +53,3 @@ These **top smartphones of 2025** cater to different needs—from **power users 
 ### **🚀 Next Steps**
 🔹 Want more tech reviews? **[Subscribe to our blog!](https://yourusername.github.io/subscribe)**  
 🔹 Follow us on **Twitter** for updates!  
-
