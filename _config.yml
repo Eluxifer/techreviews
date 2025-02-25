@@ -1,4 +1,4 @@
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+remote_theme: "mmistakes/minimal-mistakes@4.26.0"
 title: Tech Reviews
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
