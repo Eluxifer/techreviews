@@ -5,7 +5,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   A site to review the latest tech gadgets and software.
 baseurl: "/techreviews" # the subpath of your site, e.g. /blog
 url: "https://eluxifer.github.io"
-repository: "Eluxifer/techreviews" # Add this line
+repository: "Eluxifer/techreviews"
+
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-primer
@@ -28,4 +29,7 @@ future: true
 paginate: 5
 paginate_path: "/page:num/"
 
-# Trigger redeployment (added comment)
+# Permalinks
+permalink: /:categories/:year/:month/:day/:title.html
+
+# Trigger redeployment (added comment)mment)
