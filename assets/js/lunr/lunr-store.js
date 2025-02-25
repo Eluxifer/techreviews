@@ -6,7 +6,7 @@ var store = [{
         "teaser": null
       },{
         "title": "How Much RAM Do You Need in 2025?",
-        "excerpt":"Hello tech enthusiasts, As we continue to see rapid advancements in technology, the requirements for computer hardware have evolved significantly. One crucial component that often comes up in discussions is RAM (Random Access Memory). In this post, we’ll explore how much RAM you need in 2025 for various use cases...","categories": ["tech"],
+        "excerpt":"How Much RAM Do You Need in 2025? Hello tech enthusiasts, As technology continues to evolve at an unprecedented rate, so do the demands placed on our computing hardware. One of the most critical components that influences your computer’s performance is Random Access Memory (RAM). RAM is often one of...","categories": ["tech"],
         "tags": [],
         "url": "/techreviews/2025/02/25/how-much-ram-you-need-in-2025.html",
         "teaser": null
