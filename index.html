@@ -12,9 +12,9 @@ title: Home
     <h2>Latest Reviews</h2>
     {% for post in site.posts limit:3 %}
       <article class="post-card">
-        <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+        <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
         <p>{{ post.excerpt }}</p>
-        <a class="read-more" href="{{ post.url }}">Read More →</a>
+        <a class="read-more" href="{{ site.baseurl }}{{ post.url }}">Read More →</a>
       </article>
     {% endfor %}
   </section>
@@ -30,7 +30,7 @@ title: Home
     <h2>Browse by Category</h2>
     <ul>
       {% for category in site.categories %}
-        <li><a href="/categories/{{ category[0] }}">{{ category[0] | capitalize }}</a></li>
+        <li><a href="{{ site.baseurl }}/categories/{{ category[0] }}">{{ category[0] | capitalize }}</a></li>
       {% endfor %}
     </ul>
   </section>
@@ -45,8 +45,8 @@ title: Home
   <section class="popular">
     <h2>Popular Reviews</h2>
     <ul>
-      <li><a href="/best-smartphones-2025/">Best Smartphones of 2025</a></li>
-      <li><a href="/laptop-buying-guide/">Ultimate Laptop Buying Guide</a></li>
+      <li><a href="{{ site.baseurl }}/best-smartphones-2025/">Best Smartphones of 2025</a></li>
+      <li><a href="{{ site.baseurl }}/laptop-buying-guide/">Ultimate Laptop Buying Guide</a></li>
     </ul>
   </section>
 
