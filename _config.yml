@@ -4,7 +4,7 @@ email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   A site to review the latest tech gadgets and software.
 baseurl: "/techreviews" # the subpath of your site, e.g. /blog
-url: "https://eluxifer.github.io/techreviews"
+url: "https://eluxifer.github.io"
 repository: "Eluxifer/techreviews" # Add this line
 # Build settings
 markdown: kramdown
@@ -28,3 +28,4 @@ future: true
 paginate: 5
 paginate_path: "/page:num/"
 
+# Trigger redeployment (added comment)
