@@ -11,6 +11,7 @@ repository: "Eluxifer/techreviews"
 markdown: kramdown
 theme: jekyll-theme-primer
 
+
 plugins:
 - jekyll-seo-tag 
 - jekyll-coffeescript 
