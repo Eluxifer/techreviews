@@ -61,7 +61,7 @@ For professionals working with complex simulations, data analysis, machine learn
 - **Gaming Desktop**: 16GB to 32GB of RAM is ideal for gaming desktops to ensure smooth performance in modern games and multitasking.
 - **Professional Desktop**: 32GB to 64GB or more is recommended for professional use, such as video editing, 3D modeling, and complex simulations.
 
-! [Recommended DDR4 RAM Upgrades for Desktops:](heliberto-arias-raNIrcd39jY-unsplash.jpg)
+![Recommended DDR4 RAM Upgrades for Desktops:](heliberto-arias-raNIrcd39jY-unsplash.jpg)
 
 1. **Corsair Vengeance LPX 32GB (2 x 16GB) DDR4-3200**
    - ![Corsair Vengeance LPX 32GB](https://m.media-amazon.com/images/I/61wCOVcyvFL._AC_SL1500_.jpg)
