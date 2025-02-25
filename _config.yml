@@ -30,6 +30,6 @@ paginate: 5
 paginate_path: "/page:num/"
 
 # Permalinks
-permalink: /:categories/:year/:month/:day/:title.html
+permalink: /:year/:month/:day/:title.html
 
-# Trigger redeployment (added comment)mment)
+
