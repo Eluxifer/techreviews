@@ -3,10 +3,10 @@ layout: post
 title: "How Much RAM Do You Need in 2025?"
 date: 2025-02-25 15:55:14 +0000
 categories: tech
-image: "/assets/images/luan-gjokaj-y4_xZ3cs96w-unsplash.jpg"
+image: "techreviews/assets/images/luan-gjokaj-y4_xZ3cs96w-unsplash.jpg"
 ---
 
-# [How Much RAM Do You Need in 2025](assets/images/luan-gjokaj-y4_xZ3cs96w-unsplash.jpg)
+# [How Much RAM Do You Need in 2025](techreviews/assets/images/luan-gjokaj-y4_xZ3cs96w-unsplash.jpg)
 
 Hello tech enthusiasts,
 
