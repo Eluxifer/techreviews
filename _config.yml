@@ -8,7 +8,6 @@ url: "https://eluxifer.github.io/techreviews"
 # Build settings
 
 
-
 plugins:
 - jekyll-seo-tag 
 - jekyll-coffeescript 
