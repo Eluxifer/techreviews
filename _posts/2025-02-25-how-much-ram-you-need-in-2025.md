@@ -64,67 +64,67 @@ For professionals working with complex simulations, data analysis, machine learn
 ### Recommended DDR4 RAM Upgrades for Desktops:
 
 1. **Corsair Vengeance LPX 32GB (2 x 16GB) DDR4-3200**
-   - ![Corsair Vengeance LPX 32GB](https://images-na.ssl-images-amazon.com/images/I/71jlbRD4d6L._AC_SL1500_.jpg)
+   - ![Corsair Vengeance LPX 32GB](https://m.media-amazon.com/images/I/61wCOVcyvFL._AC_SL1500_.jpg)
    - Price: $48.00
    - [Buy on Amazon](https://amzn.to/4bdgazj)
    
 2. **Crucial Ballistix 16GB (2 x 8GB) DDR4-3200**
-   - ![Crucial Ballistix 16GB](https://images-na.ssl-images-amazon.com/images/I/71jlbRD4d6L._AC_SL1500_.jpg)
+   - ![Crucial Ballistix 16GB](https://m.media-amazon.com/images/I/41GYVuKLOEL._AC_SL1024_.jpg)
    - Price: $89.99
    - [Buy on Amazon](https://amzn.to/4ifwZfm)
 
 3. **G.Skill Ripjaws V Series 32GB (2 x 16GB) DDR4-3200**
-   - ![G.Skill Ripjaws V Series 32GB](https://images-na.ssl-images-amazon.com/images/I/81mPWIwO+ML._AC_SL1500_.jpg)
+   - ![G.Skill Ripjaws V Series 32GB](https://m.media-amazon.com/images/I/618SEnJR1nL._AC_SL1500_.jpg)
    - Price: $50.99
    - [Buy on Amazon](https://amzn.to/4k7Fnz8)
 
 ### Recommended DDR5 RAM Upgrades for Desktops:
 
 1. **Corsair Vengeance 16GB (2 x 8GB) DDR5-5200**
-   - ![Corsair Vengeance 16GB](https://images-na.ssl-images-amazon.com/images/I/71c2N+1RklL._AC_SL1500_.jpg)
+   - ![Corsair Vengeance 16GB](https://m.media-amazon.com/images/I/61XAG0FT2ZL._AC_SL1500_.jpg)
    - Price: $54.99
    - [Buy on Amazon](https://amzn.to/3EUWxQB)
 
 2. **Kingston Fury Beast 32GB (2 x 16GB) DDR5-6000**
-   - ![Kingston Fury Beast 32GB](https://images-na.ssl-images-amazon.com/images/I/71c2N+1RklL._AC_SL1500_.jpg)
+   - ![Kingston Fury Beast 32GB](https://m.media-amazon.com/images/I/715QXNdKxiL._AC_SL1500_.jpg)
    - Price: $155.99
    - [Buy on Amazon](https://amzn.to/4khvleM)
 
 3. **G.Skill Trident Z5 RGB 64GB (2 x 32GB) DDR5-6000**
-   - ![G.Skill Trident Z5 RGB 64GB](https://images-na.ssl-images-amazon.com/images/I/71c2N+1RklL._AC_SL1500_.jpg)
+   - ![G.Skill Trident Z5 RGB 64GB](https://m.media-amazon.com/images/I/71DiVTefKBL._AC_SL1500_.jpg)
    - Price: $209.99
    - [Buy on Amazon](https://amzn.to/4hRgGFz)
 
 ### Recommended DDR4 RAM Upgrades for Laptops:
 
 1. **Crucial 32GB DDR4-2666 SODIMM**
-   - ![Crucial 32GB DDR4-2666 SODIMM](https://images-na.ssl-images-amazon.com/images/I/71jlbRD4d6L._AC_SL1500_.jpg)
+   - ![Crucial 32GB DDR4-2666 SODIMM](https://m.media-amazon.com/images/I/71LX2Lz9yOL._AC_SL1499_.jpg)
    - Price: $79.99
    - [Buy on Amazon](https://amzn.to/4kcAUeB)
 
 2. **Kingston Fury Impact 32GB (2 x 16GB) DDR4-3200 SODIMM**
-   - ![Kingston Fury Impact 32GB](https://images-na.ssl-images-amazon.com/images/I/71c2N+1RklL._AC_SL1500_.jpg)
+   - ![Kingston Fury Impact 32GB](https://m.media-amazon.com/images/I/71IWsVAkaCL._AC_SL1500_.jpg)
    - Price: $67.99
    - [Buy on Amazon](https://amzn.to/4ig4e1U)
 
 3. **Corsair Vengeance 64GB (2 x 32GB) DDR4-3200 SODIMM**
-   - ![Corsair Vengeance 64GB](https://images-na.ssl-images-amazon.com/images/I/71c2N+1RklL._AC_SL1500_.jpg)
+   - ![Corsair Vengeance 64GB](https://m.media-amazon.com/images/I/71USnvbnjIL._AC_SL1500_.jpg)
    - Price: $109.99
    - [Buy on Amazon](https://amzn.to/4kqtwwq)
 
 ### Recommended DDR5 RAM Upgrades for Laptops:
 
 1. **Corsair 16GB DDR5-4800 SODIMM**
-   - ![Corsair 16GB DDR5-4800 SODIMM](https://images-na.ssl-images-amazon.com/images/I/71c2N+1RklL._AC_SL1500_.jpg)
+   - ![Corsair 16GB DDR5-4800 SODIMM](https://m.media-amazon.com/images/I/51UsnDYmrgL._AC_SL1200_.jpg)
    - Price: $49.99
    - [Buy on Amazon](https://amzn.to/3DjY2Hk)
 
 2. **Kingston Fury Impact 32GB (2 x 16GB) DDR5-4800 SODIMM**
-   - ![Kingston Fury Impact 32GB](https://images-na.ssl-images-amazon.com/images/I/71c2N+1RklL._AC_SL1500_.jpg)
+   - ![Kingston Fury Impact 32GB](https://m.media-amazon.com/images/I/61Mc6kTOz+L._AC_SL1500_.jpg)
    - Price: $136.99
    - [Buy on Amazon](https://amzn.to/4bj0Ktb)
 
 3. **Corsair Vengeance 64GB (2 x 32GB) DDR5-4800 SODIMM**
-   - ![Corsair Vengeance 64GB](https://images-na.ssl-images-amazon.com/images/I/71c2N+1RklL._AC_SL1500_.jpg)
+   - ![Corsair Vengeance 64GB](https://m.media-amazon.com/images/I/51YgnMva5XL._AC_SL1100_.jpg)
    - Price: $158.99
    - [Buy on Amazon](https://amzn.to/4i5QtmI)
