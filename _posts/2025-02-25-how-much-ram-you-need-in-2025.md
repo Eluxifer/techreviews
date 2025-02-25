@@ -70,7 +70,7 @@ For professionals working with complex simulations, data analysis, machine learn
 1. **Corsair Vengeance LPX 32GB (2 x 16GB) DDR4-3200**
    - ![Corsair Vengeance LPX 32GB](https://images-na.ssl-images-amazon.com/images/I/71jlbRD4d6L._AC_SL1500_.jpg)
    - Price: $48.00
-   - [Buy on Amazon](https://www.amazon.com/Corsair-Vengeance-2x16GB-DDR4-3200/dp/B07D1XCKWW)
+   - [Buy on Amazon]([https://www.amazon.com/Corsair-Vengeance-2x16GB-DDR4-3200/dp/B07D1XCKWW](https://www.amazon.com/Corsair-VENGEANCE-3200MHz-Compatible-Computer/dp/B07RW6Z692/ref=sr_1_3?crid=2E29MKWOI861H&dib=eyJ2IjoiMSJ9.PyoFKd7S4ljtAVkGsvd4b5kYgVjIQNASStAf-B9-B4U9LJS5OtKzSFL3_laqb8Y_XFm8dZe1jhEs8u_3ON4o75zIefCfe4-c5WtowHM-nhceMjd7yG3NSeFCgfwXc82k7Fs5Q3VAV9bcgZ--9xTlYoTm7XjUhGWRp8G7d9A9yvDXRcHXz8IWvtGr79QwLoaFjPvxuHP95F8PaAqFA5AtWH9vwKHBT8ZrtkGm0h5vk31Y6T8SJL-gntDA7vMxX9JXTlF6mH-6OraGcHarpyM3OJV40LleMosAVPrpTciRdYts9qgoBDUebqHw5R7oxuCU3FgfAs-A8QS3lBdtIKYXxqiWjwuFdicZYsGTa1PEhIU.9hB9G4DKNXc5MFYEZUPFFKXbOuHV7HI5Y0XV6xybwyI&dib_tag=se&keywords=ddr4&qid=1740500042&s=electronics&sprefix=ddr%2Celectronics%2C363&sr=1-3))
 
 2. **Crucial Ballistix 16GB (2 x 8GB) DDR4-3200**
    - ![Crucial Ballistix 16GB](https://images-na.ssl-images-amazon.com/images/I/71jlbRD4d6L._AC_SL1500_.jpg)
