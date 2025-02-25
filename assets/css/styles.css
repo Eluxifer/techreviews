@@ -1,0 +1,127 @@
+/* General Styles */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f5f5f5;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+/* Container */
+.container {
+  width: 90%;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+/* Section Styling */
+section {
+  background: white;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  margin-bottom: 20px;
+}
+
+/* Headings */
+h1, h2 {
+  color: #222;
+}
+
+/* Featured Posts */
+.post-card {
+  padding: 15px;
+  border-bottom: 1px solid #ddd;
+}
+
+.post-card h3 {
+  margin: 0;
+}
+
+.read-more {
+  display: inline-block;
+  margin-top: 10px;
+  color: #007bff;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.read-more:hover {
+  text-decoration: underline;
+}
+
+/* Categories */
+.categories ul {
+  list-style: none;
+  padding: 0;
+}
+
+.categories ul li {
+  display: inline;
+  margin-right: 10px;
+}
+
+.categories ul li a {
+  text-decoration: none;
+  color: #007bff;
+}
+
+/* Subscribe Form */
+.subscribe form {
+  display: flex;
+  gap: 10px;
+}
+
+.subscribe input {
+  flex: 1;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+
+.subscribe button {
+  background: #007bff;
+  color: white;
+  border: none;
+  padding: 10px 15px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.subscribe button:hover {
+  background: #0056b3;
+}
+/* Related Posts */
+.related-posts {
+  margin-top: 40px;
+  padding: 20px;
+  background: #f9f9f9;
+  border-left: 5px solid #007bff;
+  border-radius: 5px;
+}
+
+.related-posts h2 {
+  font-size: 1.5em;
+  color: #333;
+}
+
+.related-posts ul {
+  list-style: none;
+  padding: 0;
+}
+
+.related-posts li {
+  margin: 10px 0;
+}
+
+.related-posts a {
+  text-decoration: none;
+  font-weight: bold;
+  color: #007bff;
+}
+
+.related-posts a:hover {
+  text-decoration: underline;
+}
+
