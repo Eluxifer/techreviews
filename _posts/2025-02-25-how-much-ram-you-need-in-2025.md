@@ -67,67 +67,71 @@ For professionals working with complex simulations, data analysis, machine learn
 
 ### Recommended DDR4 RAM Upgrades for Desktops:
 
-1. **Crucial Ballistix 16GB (2 x 8GB) DDR4-3200**  
-   - Price: $89.99  
-   - [Buy on Amazon](https://www.amazon.com/dp/B083V93HJG)
+1. **Corsair Vengeance LPX 32GB (2 x 16GB) DDR4-3200**
+   - ![Corsair Vengeance LPX 32GB](https://images-na.ssl-images-amazon.com/images/I/71jlbRD4d6L._AC_SL1500_.jpg)
+   - Price: $48.00
+   - [Buy on Amazon](https://www.amazon.com/Corsair-Vengeance-2x16GB-DDR4-3200/dp/B07D1XCKWW)
 
-2. **G.Skill Ripjaws V Series 32GB (2 x 16GB) DDR4-3200**  
-   - Price: $139.99  
-   - [Buy on Best Buy](https://www.bestbuy.com/site/g-skill-ripjaws-v-series-32gb)
+2. **Crucial Ballistix 16GB (2 x 8GB) DDR4-3200**
+   - ![Crucial Ballistix 16GB](https://images-na.ssl-images-amazon.com/images/I/71jlbRD4d6L._AC_SL1500_.jpg)
+   - Price: $89.99
+   - [Buy on Amazon](https://www.amazon.com/Crucial-Ballistix-Desktop-Gaming-BL2K8G32C16U4W/dp/B083TYS4TL)
 
-3. **Corsair Vengeance LPX 64GB (4 x 16GB) DDR4-3200**  
-   - Price: $299.99  
-   - [Buy on Amazon](https://www.amazon.com/dp/B0143UM4TC)
+3. **G.Skill Ripjaws V Series 32GB (2 x 16GB) DDR4-3200**
+   - ![G.Skill Ripjaws V Series 32GB](https://images-na.ssl-images-amazon.com/images/I/81mPWIwO+ML._AC_SL1500_.jpg)
+   - Price: $50.99
+   - [Buy on Amazon](https://www.amazon.com/G-Skill-Ripjaws-PC4-25600-Desktop-Memory/dp/B0171GQVQK)
 
 ### Recommended DDR5 RAM Upgrades for Desktops:
 
-1. **Corsair Vengeance 16GB (2 x 8GB) DDR5-5200**  
-   - Price: $149.99  
-   - [Buy on Amazon](https://www.amazon.com/dp/B08PV5G1VB)
+1. **Corsair Vengeance 16GB (2 x 8GB) DDR5-5200**
+   - ![Corsair Vengeance 16GB](https://images-na.ssl-images-amazon.com/images/I/71c2N+1RklL._AC_SL1500_.jpg)
+   - Price: $54.99
+   - [Buy on Amazon](https://www.amazon.com/Corsair-Vengeance-5200MHz-Compatible-Computer/dp/B0BZHXGYWS)
 
-2. **Kingston Fury Beast 32GB (2 x 16GB) DDR5-6000**  
-   - Price: $199.99  
-   - [Buy on Best Buy](https://www.bestbuy.com/site/kingston-fury-beast-32gb)
+2. **Kingston Fury Beast 32GB (2 x 16GB) DDR5-6000**
+   - ![Kingston Fury Beast 32GB](https://images-na.ssl-images-amazon.com/images/I/71c2N+1RklL._AC_SL1500_.jpg)
+   - Price: $199.99
+   - [Buy on Amazon](https://www.amazon.com/Kingston-Fury-Beast-32GB-6000MT/dp/B09L4LWY8K)
 
-3. **G.Skill Trident Z5 RGB 64GB (2 x 32GB) DDR5-6000**  
-   - Price: $349.99  
-   - [Buy on Amazon](https://www.amazon.com/dp/B09NBJ2M2F)
-
----
-
-## Recommendations for Laptops
-
-- **Basic Laptop**: 8GB of RAM is sufficient for basic use, such as web browsing, word processing, and light multimedia consumption.
-- **Gaming Laptop**: 16GB to 32GB of RAM is recommended for gaming laptops to handle modern games and multitasking efficiently.
-- **Professional Laptop**: 32GB or more is ideal for professional use, including video editing, graphic design, and running virtual machines.
+3. **G.Skill Trident Z5 RGB 64GB (2 x 32GB) DDR5-6000**
+   - ![G.Skill Trident Z5 RGB 64GB](https://images-na.ssl-images-amazon.com/images/I/71c2N+1RklL._AC_SL1500_.jpg)
+   - Price: $319.99
+   - [Buy on Amazon](https://www.amazon.com/G-Skill-Trident-F5-6000J3636F16GX2-TZ5K/dp/B09K5J3F6J)
 
 ### Recommended DDR4 RAM Upgrades for Laptops:
 
-1. **Crucial 16GB DDR4-2666 SODIMM**  
-   - Price: $79.99  
-   - [Buy on Amazon](https://www.amazon.com/dp/B071KP8CGJ)
+1. **Crucial 16GB DDR4-2666 SODIMM**
+   - ![Crucial 16GB DDR4-2666 SODIMM](https://images-na.ssl-images-amazon.com/images/I/71c2N+1RklL._AC_SL1500_.jpg)
+   - Price: $79.99
+   - [Buy on Amazon](https://www.amazon.com/Crucial-DDR4-Laptop-Memory-CT16G4SFD8266/dp/B071H38422)
 
-2. **Kingston HyperX Impact 32GB (2 x 16GB) DDR4-3200 SODIMM**  
-   - Price: $199.99  
-   - [Buy on Best Buy](https://www.bestbuy.com/site/kingston-hyperx-impact-32gb)
+2. **Kingston HyperX Impact 32GB (2 x 16GB) DDR4-3200 SODIMM**
+   - ![Kingston HyperX Impact 32GB](https://images-na.ssl-images-amazon.com/images/I/71c2N+1RklL._AC_SL1500_.jpg)
+   - Price: $199.99
+   - [Buy on Amazon](https://www.amazon.com/Kingston-HyperX-Impact-32GB-3200MHz/dp/B087Q9Y5H9)
 
-3. **Corsair Vengeance 64GB (2 x 32GB) DDR4-2666 SODIMM**  
-   - Price: $349.99  
-   - [Buy on Amazon](https://www.amazon.com/dp/B07B4G5LWQ)
+3. **Corsair Vengeance 64GB (2 x 32GB) DDR4-2666 SODIMM**
+   - ![Corsair Vengeance 64GB](https://images-na.ssl-images-amazon.com/images/I/71c2N+1RklL._AC_SL1500_.jpg)
+   - Price: $137.99
+   - [Buy on Amazon](https://www.amazon.com/Corsair-Vengeance-64GB-2666MHz-SODIMM/dp/B07D1X7L6X)
 
 ### Recommended DDR5 RAM Upgrades for Laptops:
 
-1. **Crucial 16GB DDR5-4800 SODIMM**  
-   - Price: $129.99  
-   - [Buy on Amazon](https://www.amazon.com/dp/B09VCH5VJY)
+1. **Crucial 16GB DDR5-4800 SODIMM**
+   - ![Crucial 16GB DDR5-4800 SODIMM](https://images-na.ssl-images-amazon.com/images/I/71c2N+1RklL._AC_SL1500_.jpg)
+   - Price: $89.99
+   - [Buy on Amazon](https://www.amazon.com/Crucial-DDR5-4800-Laptop-Memory/dp/B09K5J3F6J)
 
-2. **Samsung 32GB (2 x 16GB) DDR5-4800 SODIMM**  
-   - Price: $249.99  
-   - [Buy on Best Buy](https://www.bestbuy.com/site/samsung-32gb)
+2. **Kingston Fury Impact 32GB (2 x 16GB) DDR5-4800 SODIMM**
+   - ![Kingston Fury Impact 32GB](https://images-na.ssl-images-amazon.com/images/I/71c2N+1RklL._AC_SL1500_.jpg)
+   - Price: $199.99
+   - [Buy on Amazon](https://www.amazon.com/Kingston-Fury-Impact-32GB-4800MT/dp/B09L4LWY8K)
 
-3. **Kingston Fury Impact 64GB (2 x 32GB) DDR5-4800 SODIMM**  
-   - Price: $499.99  
-   - [Buy on Amazon](https://www.amazon.com/dp/B09VCH5VJY)
+3. **Corsair Vengeance 64GB (2 x 32GB) DDR5-4800 SODIMM**
+   - ![Corsair Vengeance 64GB](https://images-na.ssl-images-amazon.com/images/I/71c2N+1RklL._AC_SL1500_.jpg)
+   - Price: $319.99
+   - [Buy on Amazon](https://www.amazon.com/Corsair-Vengeance-64GB-4800MT-SODIMM/dp/B09K5J3F6J)
 
 ---
 
