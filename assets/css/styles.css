@@ -92,3 +92,36 @@ h1, h2 {
 .subscribe button:hover {
   background: #0056b3;
 }
+/* Related Posts */
+.related-posts {
+  margin-top: 40px;
+  padding: 20px;
+  background: #f9f9f9;
+  border-left: 5px solid #007bff;
+  border-radius: 5px;
+}
+
+.related-posts h2 {
+  font-size: 1.5em;
+  color: #333;
+}
+
+.related-posts ul {
+  list-style: none;
+  padding: 0;
+}
+
+.related-posts li {
+  margin: 10px 0;
+}
+
+.related-posts a {
+  text-decoration: none;
+  font-weight: bold;
+  color: #007bff;
+}
+
+.related-posts a:hover {
+  text-decoration: underline;
+}
+
