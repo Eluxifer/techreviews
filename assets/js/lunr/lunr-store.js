@@ -4,4 +4,10 @@ var store = [{
         "tags": [],
         "url": "/techreviews/2025/02/24/best-smartphones-2025.html",
         "teaser": null
+      },{
+        "title": "How Much RAM Do You Need in 2025?",
+        "excerpt":"How Much RAM Do You Need in 2025? Hello tech enthusiasts, As we continue to see rapid advancements in technology, the requirements for computer hardware have evolved significantly. One crucial component that often comes up in discussions is RAM (Random Access Memory). In this post, we’ll explore how much RAM...","categories": ["tech"],
+        "tags": [],
+        "url": "/techreviews/2025/02/25/how-much-ram-you-need-in-2025.html",
+        "teaser": null
       }]
