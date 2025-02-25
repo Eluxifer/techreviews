@@ -1,12 +1,30 @@
 ---
 layout: default
-title: Home
 ---
+<div class="home">
+  <h1>{{ site.title }}</h1>
+  <p>{{ site.description }}</p>
 
-<div class="container">
-  <h1>Welcome to Tech Reviews Hub</h1>
-  <p>Your go-to source for the latest and greatest in tech.</p>
+  <ul class="post-list">
+    {% for post in paginator.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+        <h2>
+          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
 
+  <div class="pagination">
+    {% if paginator.previous_page %}
+      <a href="{{ paginator.previous_page_path | relative_url }}" class="previous">Previous</a>
+    {% endif %}
+    {% if paginator.next_page %}
+      <a href="{{ paginator.next_page_path | relative_url }}" class="next">Next</a>
+    {% endif %}
+  </div>
+</div>
   <!-- Featured Posts -->
   <section class="featured">
     <h2>Latest Reviews</h2>
