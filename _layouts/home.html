@@ -46,3 +46,20 @@ layout: default
   </ul>
 </section>
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "{{ page.title }}",
+  "description": "{{ page.excerpt }}",
+  "url": "{{ site.url }}{{ page.url }}",
+  "author": {
+    "@type": "Person",
+    "name": "Your Name"
+  },
+  "datePublished": "{{ page.date | date: '%Y-%m-%d' }}",
+  "image": "{{ site.baseurl }}{{ page.image }}"
+}
+</script>
+
+
