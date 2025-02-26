@@ -4,7 +4,6 @@ title: "The Ultimate Laptop Buying Guide: Everything You Need to Know"
 date: 2025-02-26
 categories: [laptops, buying-guide, tech]
 tags: [laptops, tech, buying-guide, reviews]
-image: /assets/images/Laptop.png
 ---
 
 # The Ultimate Laptop Buying Guide: Everything You Need to Know
