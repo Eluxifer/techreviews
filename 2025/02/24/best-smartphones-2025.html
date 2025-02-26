@@ -149,6 +149,79 @@
     
   </ul>
 </section>
+<!-- Search Bar Section -->
+<section class="search">
+  <h2>Search Reviews</h2>
+  <input type="text" id="search-input" placeholder="Search for reviews..." aria-label="Search for reviews">
+  <ul id="search-results"></ul>
+</section>
+
+<script>
+  var search = new SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('search-results'),
+    json: '/search.json'
+  });
+</script>
+
+<!-- Slick Carousel CSS and JS links (if required) -->
+
+<!-- Simple Jekyll Search JS -->
+<script src="https://cdn.jsdelivr.net/npm/simple-jekyll-search@1.7.0/dest/simple-jekyll-search.min.js"></script>
+
+<!-- CSS Styling for Search Results -->
+<style>
+  #search-results {
+    list-style: none;
+    padding: 0;
+    margin: 10px 0;
+  }
+
+  #search-results li {
+    padding: 10px;
+    margin-bottom: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: #f9f9f9;
+  }
+
+  #search-results li a {
+    text-decoration: none;
+    color: #007bff;
+  }
+
+  #search-results li a:hover {
+    text-decoration: underline;
+  }
+
+  #search-input {
+    padding: 8px;
+    width: 100%;
+    max-width: 400px;
+    margin-bottom: 15px;
+    font-size: 1rem;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+  }
+</style>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "Best Smartphones of 2025 – Top Picks & Reviews",
+  "description": "<h2 id="-best-smartphones-of-2025--our-top-picks">📱 Best Smartphones of 2025 – Our Top Picks</h2>
+
+",
+  "url": "https://www.arctechviews.blog/2025/02/24/best-smartphones-2025.html",
+  "author": {
+    "@type": "Person",
+    "name": "Your Name"
+  },
+  "datePublished": "2025-02-24",
+  "image": "/assets/images/best-smartphones-2025.jpg"
+}
+</script>
 
 <!-- Popular Reviews Carousel Section -->
 <section class="popular">
