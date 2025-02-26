@@ -7,9 +7,9 @@ permalink: /how-much-ram-2025/
 ---
 
 
-![How Much RAM Do You Need in 2025](luan-gjokaj-y4_xZ3cs96w-unsplash.jpg)
+### How Much RAM Do You Need in 2025?
+<img src="luan-gjokaj-y4_xZ3cs96w-unsplash.jpg" width="200"/>
 
-# How Much RAM Do You Need in 2025?
 
 Hello tech enthusiasts,
 
