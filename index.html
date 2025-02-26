@@ -119,56 +119,73 @@
 
 
     <div class="initial-content">
-      <div class="home">
+      <header>
+  <div class="logo">
+    <h1>ArcTechViews</h1>
+  </div>
+  <nav>
+    <ul>
+      <li><a href="/about">About</a></li>
+      <li><a href="/contact">Contact</a></li>
+      <li><a href="/blog">Blog</a></li>
+    </ul>
+  </nav>
+</header>
+
+<div class="home">
   <h1>ArcTechViews</h1>
   <p>A site to review the latest tech gadgets and software.</p>
   
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9564724501422765"
      crossorigin="anonymous"></script>
   <img src="/assets/images/ArcTechViews.png" style="width: 100%; height: 300px; object-fit: cover;" />
+
   <!-- Introduction Section -->
   <section class="introduction">
     <h2>Welcome to ArcTechViews</h2>
     <p>We provide in-depth, unbiased reviews of the latest tech gadgets, smartphones, laptops, and more. Our mission is to help you make the best purchasing decisions with well-researched and up-to-date information.</p>
+    <a href="/best-smartphones-2025" class="cta-button">Read Our Latest Smartphone Review</a>
   </section>
   
   <!-- Featured Posts -->
   <section class="featured">
     <h2>Latest Reviews</h2>
-    
-      <article class="post-card">
-        <h3><a href="/2025/02/26/ultimate-laptop-buying-guide.html">The Ultimate Laptop Buying Guide: Everything You Need to Know</a></h3>
-        <p><h1 id="the-ultimate-laptop-buying-guide-everything-you-need-to-know">The Ultimate Laptop Buying Guide: Everything You Need to Know</h1>
+    <div class="post-cards">
+      
+        <article class="post-card">
+          <h3><a href="/2025/02/26/ultimate-laptop-buying-guide.html">The Ultimate Laptop Buying Guide: Everything You Need to Know</a></h3>
+          <p><h1 id="the-ultimate-laptop-buying-guide-everything-you-need-to-know">The Ultimate Laptop Buying Guide: Everything You Need to Know</h1>
 <p><img src="/assets/images/Laptop.png" style="width: 100%; height: 300px; object-fit: cover;" /></p>
 <h2 id="introduction">Introduction</h2>
 
 </p>
-        <a class="read-more" href="/2025/02/26/ultimate-laptop-buying-guide.html">Read More →</a>
-      </article>
-    
-      <article class="post-card">
-        <h3><a href="/2025/02/26/AMD-vs-intel-which-processor-should-you-choose.html">AMD vs. Intel: Which Processor Should You Choose?</a></h3>
-        <p><p><img src="/assets/images/cpuwar1.PNG" style="width: 100%; height: 600px; object-fit: cover;" /></p>
+          <a class="read-more" href="/2025/02/26/ultimate-laptop-buying-guide.html">Read More →</a>
+        </article>
+      
+        <article class="post-card">
+          <h3><a href="/2025/02/26/AMD-vs-intel-which-processor-should-you-choose.html">AMD vs. Intel: Which Processor Should You Choose?</a></h3>
+          <p><p><img src="/assets/images/cpuwar1.PNG" style="width: 100%; height: 600px; object-fit: cover;" /></p>
 
 </p>
-        <a class="read-more" href="/2025/02/26/AMD-vs-intel-which-processor-should-you-choose.html">Read More →</a>
-      </article>
-    
-      <article class="post-card">
-        <h3><a href="/how-much-ram-2025/">How Much RAM Do You Need in 2025?</a></h3>
-        <p><h3 id="how-much-ram-do-you-need-in-2025">How Much RAM Do You Need in 2025?</h3>
+          <a class="read-more" href="/2025/02/26/AMD-vs-intel-which-processor-should-you-choose.html">Read More →</a>
+        </article>
+      
+        <article class="post-card">
+          <h3><a href="/how-much-ram-2025/">How Much RAM Do You Need in 2025?</a></h3>
+          <p><h3 id="how-much-ram-do-you-need-in-2025">How Much RAM Do You Need in 2025?</h3>
 <p><img src="assets/images/Ram.png" width="400" /></p>
 
 </p>
-        <a class="read-more" href="/how-much-ram-2025/">Read More →</a>
-      </article>
-    
+          <a class="read-more" href="/how-much-ram-2025/">Read More →</a>
+        </article>
+      
+    </div>
   </section>
   
   <!-- Search Bar -->
   <section class="search">
     <h2>Search Reviews</h2>
-    <input type="text" id="search-input" placeholder="Search for reviews...">
+    <input type="text" id="search-input" placeholder="Search for reviews..." oninput="searchReviews()">
     <ul id="search-results"></ul>
   </section>
   
@@ -182,8 +199,8 @@
   <section class="popular">
     <h2>Popular Reviews</h2>
     <ul>
-      <li><a href="/2025-02-24-best-smartphones-2025/">Best Smartphones of 2025</a></li>
-      <li><a href="/2025-02-26-ultimate-laptop-buying-guide/">Ultimate Laptop Buying Guide</a></li>
+      <li><a href="/best-smartphones-2025">Best Smartphones of 2025</a></li>
+      <li><a href="/laptop-buying-guide">Ultimate Laptop Buying Guide</a></li>
     </ul>
   </section>
   
@@ -191,12 +208,77 @@
   <section class="subscribe">
     <h2>Stay Updated</h2>
     <p>Subscribe to get the latest tech reviews delivered to your inbox.</p>
-    <form>
-      <input type="email" placeholder="Enter your email">
+    <form onsubmit="subscribeToNewsletter(event)">
+      <input type="email" id="email" placeholder="Enter your email" required>
       <button type="submit">Subscribe</button>
     </form>
   </section>
 </div>
+
+<footer>
+  <ul>
+    <li><a href="/privacy-policy">Privacy Policy</a></li>
+    <li><a href="/terms-of-service">Terms of Service</a></li>
+    <li><a href="https://twitter.com/yourprofile">Twitter</a></li>
+    <li><a href="https://facebook.com/yourprofile">Facebook</a></li>
+  </ul>
+  <p>© 2025 ArcTechViews. All rights reserved.</p>
+</footer>
+
+<script>
+  function searchReviews() {
+    const query = document.getElementById('search-input').value.toLowerCase();
+    const results = document.getElementById('search-results');
+    results.innerHTML = ''; // Clear previous results
+
+    
+      if ("the ultimate laptop buying guide: everything you need to know" includes query || "<h1 id="the-ultimate-laptop-buying-guide-everything-you-need-to-know">the ultimate laptop buying guide: everything you need to know</h1>
+<p><img src="/assets/images/laptop.png" style="width: 100%; height: 300px; object-fit: cover;" /></p>
+<h2 id="introduction">introduction</h2>
+
+" includes query) {
+        const resultItem = document.createElement('li');
+        resultItem.innerHTML = `<a href="/2025/02/26/ultimate-laptop-buying-guide.html">The Ultimate Laptop Buying Guide: Everything You Need to Know</a>`;
+        results.appendChild(resultItem);
+      }
+    
+      if ("amd vs. intel: which processor should you choose?" includes query || "<p><img src="/assets/images/cpuwar1.png" style="width: 100%; height: 600px; object-fit: cover;" /></p>
+
+" includes query) {
+        const resultItem = document.createElement('li');
+        resultItem.innerHTML = `<a href="/2025/02/26/AMD-vs-intel-which-processor-should-you-choose.html">AMD vs. Intel: Which Processor Should You Choose?</a>`;
+        results.appendChild(resultItem);
+      }
+    
+      if ("how much ram do you need in 2025?" includes query || "<h3 id="how-much-ram-do-you-need-in-2025">how much ram do you need in 2025?</h3>
+<p><img src="assets/images/ram.png" width="400" /></p>
+
+" includes query) {
+        const resultItem = document.createElement('li');
+        resultItem.innerHTML = `<a href="/how-much-ram-2025/">How Much RAM Do You Need in 2025?</a>`;
+        results.appendChild(resultItem);
+      }
+    
+      if ("best smartphones of 2025 – top picks & reviews" includes query || "<h2 id="-best-smartphones-of-2025--our-top-picks">📱 best smartphones of 2025 – our top picks</h2>
+<p><img src="/assets/images/smartphones.png" style="width: 100%; height: 300px; object-fit: cover;" />
+the smartphone market in 2025 has evolved drastically, with cutting-edge technology shaping the devices we use every day. from ai-powered cameras to ultra-fast processors, these smartphones are faster, smarter, and more intuitive than ever before. after extensive testing, we’ve compiled a list of the best smartphones of 2025 to help you choose the perfect device for your needs. whether you’re an android aficionado, an ios loyalist, or a photography enthusiast, there’s something here for you.</p>
+
+" includes query) {
+        const resultItem = document.createElement('li');
+        resultItem.innerHTML = `<a href="/2025/02/24/best-smartphones-2025.html">Best Smartphones of 2025 – Top Picks & Reviews</a>`;
+        results.appendChild(resultItem);
+      }
+    
+  }
+
+  function subscribeToNewsletter(event) {
+    event.preventDefault();
+    const email = document.getElementById('email').value;
+    alert(`Thank you for subscribing with ${email}!`);
+    // Add the email to your mailing list here
+  }
+</script>
+
 
       
     </div>
