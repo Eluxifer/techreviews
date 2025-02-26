@@ -13,7 +13,7 @@ image: /assets/images/cpuwar.png
 When it comes to choosing the best processor for your PC, the battle between AMD and Intel has been ongoing for years. Each brand offers powerful CPUs that cater to different users—from casual users to hardcore gamers and professionals. In 2025, AMD has launched its Ryzen 9000 series, while Intel is on its second-generation Core Ultra series. So, which one should you choose? Let's break it down.
 
 ## **🏆 Performance: Who Wins?**
-<img src="assets/images/Ram.png" width="400"/>
+<img src="assets/images/cpurace.png" width="400"/>
 **Gaming Performance**
 - Intel Core Ultra series continues to dominate in gaming, thanks to its higher clock speeds and superior single-core performance.
 - The Intel Core Ultra 9 285K outperforms AMD in many AAA games due to its optimized IPC (Instructions Per Clock) and improved AI-driven performance.
