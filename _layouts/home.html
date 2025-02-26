@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 <h1>{{ page.title }}</h1>
 <p>{{ page.description }}</p>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9564724501422765"
@@ -46,6 +47,22 @@ layout: default
   </ul>
 </section>
 
+<!-- Popular Reviews Carousel Section -->
+<section class="popular">
+  <h2>Popular Reviews</h2>
+  <div class="popular-reviews-carousel">
+    <div class="review-item">
+      <h3><a href="{{ site.baseurl }}/best-smartphones-2025/">Best Smartphones of 2025</a></h3>
+      <p>Our expert review of the best smartphones this year...</p>
+    </div>
+    <div class="review-item">
+      <h3><a href="{{ site.baseurl }}/laptop-buying-guide/">Ultimate Laptop Buying Guide</a></h3>
+      <p>Everything you need to know before buying your next laptop...</p>
+    </div>
+    <!-- Add more review items here as needed -->
+  </div>
+</section>
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -62,4 +79,68 @@ layout: default
 }
 </script>
 
+<!-- Slick Carousel CSS -->
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick-theme.css"/>
 
+<!-- jQuery (required for Slick) -->
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+<!-- Slick Carousel JS -->
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+
+<script type="text/javascript">
+  $(document).ready(function(){
+    $('.popular-reviews-carousel').slick({
+      infinite: true,
+      slidesToShow: 3,  // Number of items to show at once
+      slidesToScroll: 1,  // Number of items to scroll at once
+      responsive: [
+        {
+          breakpoint: 768, // When screen width is less than 768px
+          settings: {
+            slidesToShow: 1,  // Show one item per slide on smaller screens
+            slidesToScroll: 1
+          }
+        }
+      ]
+    });
+  });
+</script>
+
+<!-- CSS Styling for Carousel -->
+<style>
+.popular-reviews-carousel {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.review-item {
+  border: 1px solid #ddd;
+  padding: 15px;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  width: 250px;
+}
+
+.review-item h3 {
+  margin: 0;
+  font-size: 1.2em;
+}
+
+.review-item p {
+  font-size: 0.9em;
+  color: #666;
+}
+
+.review-item a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+.review-item a:hover {
+  text-decoration: underline;
+}
+</style>
