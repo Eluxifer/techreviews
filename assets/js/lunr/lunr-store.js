@@ -10,4 +10,10 @@ var store = [{
         "tags": [],
         "url": "/how-much-ram-2025/",
         "teaser": null
+      },{
+        "title": "The Ultimate Laptop Buying Guide: Everything You Need to Know",
+        "excerpt":"The Ultimate Laptop Buying Guide: Everything You Need to Know Introduction Buying a laptop can be overwhelming with so many choices available in the market. Whether you’re a student, professional, or gamer, it’s crucial to find a laptop that fits your needs and budget. In this comprehensive guide, we’ll walk...","categories": ["laptops","buying-guide","tech"],
+        "tags": ["laptops","tech","buying-guide","reviews"],
+        "url": "/2025/02/26/ultimate-laptop-buying-guide.html",
+        "teaser": null
       }]
