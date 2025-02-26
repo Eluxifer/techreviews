@@ -3,6 +3,7 @@ layout: default
 title: "How Much RAM Do You Need in 2025?"
 date: 2025-02-25 15:55:14 +0000
 categories: tech
+image: /assets/images/Ram.png
 permalink: /how-much-ram-2025/
 ---
 
