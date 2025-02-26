@@ -8,7 +8,7 @@ image: /assets/images/Laptop.png
 ---
 
 # The Ultimate Laptop Buying Guide: Everything You Need to Know
-<img src="{{ site.baseurl }}/assets/images/Laptop.png" class="cover-image" />
+<img src="{{ site.baseurl }}/assets/images/Laptop.png" style="width: 100%; height: 300px; object-fit: cover;" />
 ## Introduction
 
 Buying a laptop can be overwhelming with so many choices available in the market. Whether you’re a student, professional, or gamer, it’s crucial to find a laptop that fits your needs and budget. In this comprehensive guide, we'll walk you through everything you need to consider before making your purchase.
