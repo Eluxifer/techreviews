@@ -1,5 +1,5 @@
 remote_theme: "mmistakes/minimal-mistakes@4.26.0"
-title: Tech Reviews
+title: ArcTechViews
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   A site to review the latest tech gadgets and software.
@@ -7,6 +7,13 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "www.arctechviews.blog"
 repository: "Eluxifer/techreviews"
 
+# Add a logo or front page image here
+header:
+  image: /ArcTechViews.png  # Add your image path here
+  image_quality: 85
+  image_position: center center
+  image_repeat: no-repeat
+  image_size: cover
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-primer
