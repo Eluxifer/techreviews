@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 title: "Best Smartphones of 2025 – Top Picks & Reviews"
 date: 2025-02-24
 categories: smartphones tech
