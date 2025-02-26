@@ -8,7 +8,7 @@ tags: [laptops, tech, buying-guide, reviews]
 ---
 
 # The Ultimate Laptop Buying Guide: Everything You Need to Know
-
+<img src="Laptop.png" width="400"/>
 ## Introduction
 
 Buying a laptop can be overwhelming with so many choices available in the market. Whether you’re a student, professional, or gamer, it’s crucial to find a laptop that fits your needs and budget. In this comprehensive guide, we'll walk you through everything you need to consider before making your purchase.
