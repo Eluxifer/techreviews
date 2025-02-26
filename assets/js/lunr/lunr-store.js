@@ -11,10 +11,10 @@ var store = [{
         "url": "/how-much-ram-2025/",
         "teaser": null
       },{
-        "title": "Amd Vs Intel Which Processor Should You Choose",
-        "excerpt":"layout: default title: “AMD vs. Intel: Which Processor Should You Choose?” date: 2025-02-26 categories: tech hardware author: “eluxifer” description: “A deep dive into the AMD vs. Intel debate—performance, price, and the best choice for your needs.” image: /assets/images/cpuwar.png When it comes to choosing the best processor for your PC, the...","categories": [],
-        "tags": [],
-        "url": "/2025/02/26/AMD-vs-intel-which-processor-should-you-choose.html",
+        "title": null,
+        "excerpt":"When it comes to choosing the best processor for your PC, the battle between AMD and Intel has been ongoing for years. Each brand offers powerful CPUs that cater to different users—from casual users to hardcore gamers and professionals. In 2025, AMD has launched its Ryzen 9000 series, while Intel...","categories": [],
+        "tags": null,
+        "url": "/2025/02/26/2025-02-26-AMD-vs-intel-which-processor-should-you-choose.html",
         "teaser": null
       },{
         "title": "The Ultimate Laptop Buying Guide: Everything You Need to Know",
