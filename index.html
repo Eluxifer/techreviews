@@ -119,41 +119,38 @@
 
 
     <div class="initial-content">
-      <header>
-  <div class="logo">
-    <h1>ArcTechViews</h1>
+      <header class="hero">
+  <img src="/assets/images/ArcTechViews.png" alt="ArcTechViews">
+  <div class="hero-text">
+    <h1>Welcome to ArcTechViews</h1>
+    <p>Your go-to source for in-depth, unbiased tech reviews.</p>
+    <a href="/2025/02/24/best-smartphones-2025.html" class="cta-button">Read Our Latest Review</a>
   </div>
-  <nav>
-    <ul>
-      <li><a href="/about">About</a></li>
-      <li><a href="/contact">Contact</a></li>
-      <li><a href="/blog">Blog</a></li>
-    </ul>
-  </nav>
 </header>
 
-<div class="home">
-  <h1>ArcTechViews</h1>
-  <p>A site to review the latest tech gadgets and software.</p>
-  
-  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9564724501422765"
-     crossorigin="anonymous"></script>
-  <img src="/assets/images/ArcTechViews.png" style="width: 100%; height: 300px; object-fit: cover;" />
+<nav>
+  <ul>
+    <li><a href="/about">About</a></li>
+    <li><a href="/contact">Contact</a></li>
+    <li><a href="/blog">Blog</a></li>
+    <li>
+      <input type="text" id="search-input" placeholder="Search for reviews..." oninput="searchReviews()">
+      <ul id="search-results"></ul>
+    </li>
+  </ul>
+</nav>
 
-  <!-- Introduction Section -->
-  <section class="introduction">
-    <h2>Welcome to ArcTechViews</h2>
-    <p>We provide in-depth, unbiased reviews of the latest tech gadgets, smartphones, laptops, and more. Our mission is to help you make the best purchasing decisions with well-researched and up-to-date information.</p>
-    <a href="/best-smartphones-2025" class="cta-button">Read Our Latest Smartphone Review</a>
-  </section>
-  
-  <!-- Featured Posts -->
+<div class="home">
+  <!-- Latest Reviews -->
   <section class="featured">
     <h2>Latest Reviews</h2>
     <div class="post-cards">
       
         <article class="post-card">
-          <h3><a href="/2025/02/26/ultimate-laptop-buying-guide.html">The Ultimate Laptop Buying Guide: Everything You Need to Know</a></h3>
+          <a href="/2025/02/26/ultimate-laptop-buying-guide.html">
+            <img src="/assets/images/ultimate-laptop-buying-guide.jpg" alt="The Ultimate Laptop Buying Guide: Everything You Need to Know">
+            <h3>The Ultimate Laptop Buying Guide: Everything You Need to Know</h3>
+          </a>
           <p><h1 id="the-ultimate-laptop-buying-guide-everything-you-need-to-know">The Ultimate Laptop Buying Guide: Everything You Need to Know</h1>
 <p><img src="/assets/images/Laptop.png" style="width: 100%; height: 300px; object-fit: cover;" /></p>
 <h2 id="introduction">Introduction</h2>
@@ -163,7 +160,10 @@
         </article>
       
         <article class="post-card">
-          <h3><a href="/2025/02/26/AMD-vs-intel-which-processor-should-you-choose.html">AMD vs. Intel: Which Processor Should You Choose?</a></h3>
+          <a href="/2025/02/26/AMD-vs-intel-which-processor-should-you-choose.html">
+            <img src="/assets/images/AMD-vs-intel-which-processor-should-you-choose.jpg" alt="AMD vs. Intel: Which Processor Should You Choose?">
+            <h3>AMD vs. Intel: Which Processor Should You Choose?</h3>
+          </a>
           <p><p><img src="/assets/images/cpuwar1.PNG" style="width: 100%; height: 600px; object-fit: cover;" /></p>
 
 </p>
@@ -171,7 +171,10 @@
         </article>
       
         <article class="post-card">
-          <h3><a href="/how-much-ram-2025/">How Much RAM Do You Need in 2025?</a></h3>
+          <a href="/how-much-ram-2025/">
+            <img src="/assets/images/how-much-ram-you-need-in-2025.jpg" alt="How Much RAM Do You Need in 2025?">
+            <h3>How Much RAM Do You Need in 2025?</h3>
+          </a>
           <p><h3 id="how-much-ram-do-you-need-in-2025">How Much RAM Do You Need in 2025?</h3>
 <p><img src="assets/images/Ram.png" width="400" /></p>
 
@@ -181,49 +184,46 @@
       
     </div>
   </section>
-  
-  <!-- Search Bar -->
-  <section class="search">
-    <h2>Search Reviews</h2>
-    <input type="text" id="search-input" placeholder="Search for reviews..." oninput="searchReviews()">
-    <ul id="search-results"></ul>
-  </section>
-  
-  <!-- About Section -->
-  <section class="about">
-    <h2>About This Blog</h2>
-    <p>We cover in-depth reviews on the latest gadgets, smartphones, and tech trends to help you make informed decisions.</p>
-  </section>
-  
+
   <!-- Popular Reviews -->
   <section class="popular">
     <h2>Popular Reviews</h2>
-    <ul>
-     <li><a href="/2025/02/24/best-smartphones-2025.html">Best Smartphones of 2025</a></li>
-    <li><a href="/2025/02/26/ultimate-laptop-buying-guide.html">Ultimate Laptop Buying Guide</a></li>
-
-    </ul>
+    <div class="popular-reviews-grid">
+      <div class="review-card">
+        <a href="/2025/02/24/best-smartphones-2025.html">
+          <img src="/assets/images/smartphones.jpg" alt="Best Smartphones 2025">
+          <h3>Best Smartphones of 2025</h3>
+        </a>
+      </div>
+      <div class="review-card">
+        <a href="/2025/02/26/ultimate-laptop-buying-guide.html">
+          <img src="/assets/images/laptops.jpg" alt="Laptop Buying Guide">
+          <h3>Ultimate Laptop Buying Guide</h3>
+        </a>
+      </div>
+    </div>
   </section>
-  
-  <!-- Subscription Form -->
-  <section class="subscribe">
+</div>
+
+<footer>
+  <div class="footer-content">
+    <ul>
+      <li><a href="/privacy-policy">Privacy Policy</a></li>
+      <li><a href="/terms-of-service">Terms of Service</a></li>
+      <li><a href="https://twitter.com/yourprofile">Twitter</a></li>
+      <li><a href="https://facebook.com/yourprofile">Facebook</a></li>
+    </ul>
+    <p>© 2025 ArcTechViews. All rights reserved.</p>
+  </div>
+
+  <div class="subscribe">
     <h2>Stay Updated</h2>
     <p>Subscribe to get the latest tech reviews delivered to your inbox.</p>
     <form onsubmit="subscribeToNewsletter(event)">
       <input type="email" id="email" placeholder="Enter your email" required>
       <button type="submit">Subscribe</button>
     </form>
-  </section>
-</div>
-
-<footer>
-  <ul>
-    <li><a href="/privacy-policy">Privacy Policy</a></li>
-    <li><a href="/terms-of-service">Terms of Service</a></li>
-    <li><a href="https://twitter.com/yourprofile">Twitter</a></li>
-    <li><a href="https://facebook.com/yourprofile">Facebook</a></li>
-  </ul>
-  <p>© 2025 ArcTechViews. All rights reserved.</p>
+  </div>
 </footer>
 
 <script>
@@ -276,10 +276,8 @@ the smartphone market in 2025 has evolved drastically, with cutting-edge technol
     event.preventDefault();
     const email = document.getElementById('email').value;
     alert(`Thank you for subscribing with ${email}!`);
-    // Add the email to your mailing list here
   }
 </script>
-
 
       
     </div>
