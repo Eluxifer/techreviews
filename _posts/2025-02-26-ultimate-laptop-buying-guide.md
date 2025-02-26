@@ -25,7 +25,7 @@ Buying a laptop can be overwhelming with so many choices available in the market
     <!-- More questions go here -->
   </div>
 </section>
-<script src="laptopscript.js"></script>
+<script src="assets/js/laptopscript.js"></script>
 
 
 ## 1. **Identify Your Needs**
