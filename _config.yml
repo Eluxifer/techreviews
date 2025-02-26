@@ -6,6 +6,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.arctechviews.blog"
 repository: "Eluxifer/techreviews"
+favicon: /assets/images/ArcTechViews.png  # Update this path to match your image location
 
 # Add a logo or front page image here
 header:
