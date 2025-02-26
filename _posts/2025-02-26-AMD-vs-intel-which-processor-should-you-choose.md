@@ -5,9 +5,9 @@ date: 2025-02-26
 categories: tech hardware
 author: "eluxifer"
 description: "A deep dive into the AMD vs. Intel debate—performance, price, and the best choice for your needs."
-image: /assets/images/cpuwar1.png
+image: /assets/images/cpuwar1.PNG
 ---
-<img src="{{ site.baseurl }}/assets/images/cpuwar1.png" style="width: 100%; height: 300px; object-fit: cover;" />
+<img src="{{ site.baseurl }}/assets/images/cpuwar1.PNG" style="width: 100%; height: 300px; object-fit: cover;" />
 
 
 When it comes to choosing the best processor for your PC, the battle between AMD and Intel has been ongoing for years. Each brand offers powerful CPUs that cater to different users—from casual users to hardcore gamers and professionals. In 2025, AMD has launched its Ryzen 9000 series, while Intel is on its second-generation Core Ultra series. So, which one should you choose? Let's break it down.
