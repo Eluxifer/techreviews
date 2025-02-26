@@ -1,211 +1,82 @@
-<!doctype html>
-<!--
-  Minimal Mistakes Jekyll Theme 4.26.0 by Michael Rose
-  Copyright 2013-2024 Michael Rose - mademistakes.com | @mmistakes
-  Free for personal and commercial use under the MIT license
-  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
--->
+a---
+layout: default
+---
 
-<html lang="en" class="no-js">
-  <head>
-    <meta charset="utf-8">
-
-<!-- begin _includes/seo.html --><title>Tech Reviews - Tech Reviews</title>
-<meta name="description" content="A site to review the latest tech gadgets and software.">
-
-
-
-<meta property="og:type" content="website">
-<meta property="og:locale" content="en_US">
-<meta property="og:site_name" content="Tech Reviews">
-<meta property="og:title" content="Tech Reviews">
-<meta property="og:url" content="www.arctechviews.blog/">
-
-
-  <meta property="og:description" content="A site to review the latest tech gadgets and software.">
-
-
-
-
-
-
-
-
-
-
-
-
-<link rel="canonical" href="www.arctechviews.blog/">
-
-
-
-
-
-  <script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Person",
-    "name": null,
-    "url": "www.arctechviews.blog/"
-}
-</script>
-
-
-
-
-
-
-
-
-
-<!-- end _includes/seo.html -->
-
-
-
-  <link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Tech Reviews Feed">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-<script type="text/javascript">
-  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+<div class="home">
+  <h1>{{ site.title }}</h1>
+  <p>{{ site.description }}</p>
   
-</script>
-
-<!-- For all browsers -->
-<link rel="stylesheet" href="/assets/css/main.css">
-<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@latest/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@latest/css/all.min.css"></noscript>
-
-
-
-    <!-- start custom head snippets -->
-
-<!-- insert favicons. use https://realfavicongenerator.net/ -->
-
-<!-- end custom head snippets -->
-
-  </head>
-
-  <body class="layout--home">
-    <nav class="skip-links">
-  <ul>
-    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
-    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
-    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
-  </ul>
-</nav>
-
-    
-
-<div class="masthead">
-  <div class="masthead__inner-wrap">
-    <div class="masthead__menu">
-      <nav id="site-nav" class="greedy-nav">
-        
-        <a class="site-title" href="/">
-          Tech Reviews
-          
-        </a>
-        <ul class="visible-links"></ul>
-        
-        <button class="greedy-nav__toggle hidden" type="button">
-          <span class="visually-hidden">Toggle menu</span>
-          <div class="navicon"></div>
-        </button>
-        <ul class="hidden-links hidden"></ul>
-      </nav>
-    </div>
-  </div>
-</div>
-
-
-    <div class="initial-content">
-      <h1></h1>
-<p></p>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9564724501422765"
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9564724501422765"
      crossorigin="anonymous"></script>
-<!-- Git -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-9564724501422765"
-     data-ad-slot="6732703965"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<h2>Latest Posts</h2>
-<ul>
   
-    <li>
-      <a href="/2025/02/25/how-much-ram-you-need-in-2025.html">How Much RAM Do You Need in 2025?</a> - February 25, 2025
-    </li>
+  <!-- Introduction Section -->
+  <section class="introduction">
+    <h2>Welcome to ArcTechViews</h2>
+    <p>We provide in-depth, unbiased reviews of the latest tech gadgets, smartphones, laptops, and more. Our mission is to help you make the best purchasing decisions with well-researched and up-to-date information.</p>
+  </section>
   
-    <li>
-      <a href="/2025/02/24/best-smartphones-2025.html">Best Smartphones of 2025 – Top Picks & Reviews</a> - February 24, 2025
-    </li>
+  <!-- Featured Posts -->
+  <section class="featured">
+    <h2>Latest Reviews</h2>
+    {% for post in site.posts limit:3 %}
+      <article class="post-card">
+        <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
+        <p>{{ post.excerpt }}</p>
+        <a class="read-more" href="{{ site.baseurl }}{{ post.url }}">Read More →</a>
+      </article>
+    {% endfor %}
+  </section>
   
-</ul>
-
-<div class="pagination">
+  <!-- Search Bar -->
+  <section class="search">
+    <h2>Search Reviews</h2>
+    <input type="text" id="search-input" placeholder="Search for reviews...">
+    <ul id="search-results"></ul>
+  </section>
   
+  <!-- Categories -->
+  <section class="categories">
+    <h2>Browse by Category</h2>
+    <ul>
+      {% for category in site.categories %}
+        <li><a href="{{ site.baseurl }}/categories/{{ category[0] }}">{{ category[0] | capitalize }}</a></li>
+      {% endfor %}
+    </ul>
+  </section>
   
+  <!-- Latest News in Tech -->
+  <section class="latest-news">
+    <h2>Latest Tech News</h2>
+    <p>Stay updated with the latest trends in technology, from AI advancements to the newest smartphone releases.</p>
+    <ul>
+      <li><a href="#">Apple's latest MacBook Pro unveiled</a></li>
+      <li><a href="#">AMD vs. Intel: Which processor should you choose?</a></li>
+      <li><a href="#">Top gaming laptops of 2025</a></li>
+    </ul>
+  </section>
+  
+  <!-- About Section -->
+  <section class="about">
+    <h2>About This Blog</h2>
+    <p>We cover in-depth reviews on the latest gadgets, smartphones, and tech trends to help you make informed decisions.</p>
+  </section>
+  
+  <!-- Popular Reviews -->
+  <section class="popular">
+    <h2>Popular Reviews</h2>
+    <ul>
+      <li><a href="{{ site.baseurl }}/best-smartphones-2025/">Best Smartphones of 2025</a></li>
+      <li><a href="{{ site.baseurl }}/laptop-buying-guide/">Ultimate Laptop Buying Guide</a></li>
+    </ul>
+  </section>
+  
+  <!-- Subscription Form -->
+  <section class="subscribe">
+    <h2>Stay Updated</h2>
+    <p>Subscribe to get the latest tech reviews delivered to your inbox.</p>
+    <form>
+      <input type="email" placeholder="Enter your email">
+      <button type="submit">Subscribe</button>
+    </form>
+  </section>
 </div>
-
-<!-- Related Posts Section -->
-<section class="related-posts">
-  <h2>🔗 Related Reviews</h2>
-  <ul>
-    
-      
-        <li><a href="/2025/02/25/how-much-ram-you-need-in-2025.html">How Much RAM Do You Need in 2025?</a></li>
-      
-    
-      
-        <li><a href="/2025/02/24/best-smartphones-2025.html">Best Smartphones of 2025 – Top Picks & Reviews</a></li>
-      
-    
-  </ul>
-</section>
-
-
-      
-    </div>
-
-    
-
-    <div id="footer" class="page__footer">
-      <footer>
-        <!-- start custom footer snippets -->
-
-<!-- end custom footer snippets -->
-        <div class="page__footer-follow">
-  <ul class="social-icons">
-    
-
-    
-
-    
-      <li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
-    
-  </ul>
-</div>
-
-<div class="page__footer-copyright">&copy; 2025 <a href="www.arctechviews.blog">Tech Reviews</a>. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
-
-      </footer>
-    </div>
-
-    
-  <script src="/assets/js/main.min.js"></script>
-
-
-
-
-
-
-
-
-
-  </body>
-</html>
