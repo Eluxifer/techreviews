@@ -13,6 +13,8 @@ image: /assets/images/Laptop.png
 
 Buying a laptop can be overwhelming with so many choices available in the market. Whether you’re a student, professional, or gamer, it’s crucial to find a laptop that fits your needs and budget. In this comprehensive guide, we'll walk you through everything you need to consider before making your purchase.
 
+<a href="/laptop-quiz.html">Laptop Recommendation Quiz</a>
+
 ## 1. **Identify Your Needs**
 
 The first step in buying a laptop is to identify your primary use case. This will help narrow down your options and guide you toward the right model.
