@@ -5,11 +5,11 @@ date: 2025-02-24
 categories: smartphones tech
 author: "eluxifer"
 description: "Discover the best smartphones of 2025 with our expert reviews, comparisons, and buying guide."
-image: /assets/images/best-smartphones-2025.jpg
+image: /assets/images/Smartphones.png
 ---
 
 ## 📱 Best Smartphones of 2025 – Our Top Picks
-
+<img src="{{ site.baseurl }}/assets/images/Smartphones.png" style="width: 100%; height: 300px; object-fit: cover;" />
 The smartphone market in 2025 is **more advanced than ever**, featuring AI-powered cameras, ultra-fast processors, and sleek designs. After thorough testing, we’ve **picked the best smartphones*[...]
 
 ### 🔥 1. iPhone 16 Pro Max – **Best Overall**
