@@ -12,7 +12,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Amd Vs Intel Which Processor Should You Choose",
-        "excerpt":"layout: default title: “AMD vs. Intel: Which Processor Should You Choose?” date: 2025-02-26 categories: tech hardware author: “eluxifer” description: “A deep dive into the AMD vs. Intel debate—performance, price, and the best choice for your needs.” image: /assets/images/amd-vs-intel.png When it comes to choosing the best processor for your PC, the...","categories": [],
+        "excerpt":"layout: default title: “AMD vs. Intel: Which Processor Should You Choose?” date: 2025-02-26 categories: tech hardware author: “eluxifer” description: “A deep dive into the AMD vs. Intel debate—performance, price, and the best choice for your needs.” image: /assets/images/cpuwar.png When it comes to choosing the best processor for your PC, the...","categories": [],
         "tags": [],
         "url": "/2025/02/26/AMD-vs-intel-which-processor-should-you-choose.html",
         "teaser": null
