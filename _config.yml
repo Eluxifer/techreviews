@@ -9,7 +9,7 @@ repository: "Eluxifer/techreviews"
 
 # Add a logo or front page image here
 header:
-  image: /ArcTechViews.png  # Correct path to your image
+  image: /assets/images/ArcTechViews.png  # Correct path to your image
   image_quality: 85
   image_position: center center
   image_repeat: no-repeat
