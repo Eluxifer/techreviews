@@ -29,7 +29,11 @@ Apple’s iPhone 16 Pro Max is the epitome of premium in every way. Powered by t
 - **💲 Price:** $1,199
 - **📌 Why We Love It:**
 The Samsung Galaxy S25 Ultra is an absolute powerhouse for anyone who demands the best of Android. It features a massive 6.9-inch Dynamic AMOLED display with a 144Hz refresh rate, making for an ultra-smooth viewing experience, whether you're streaming, gaming, or browsing. The 200MP camera with 100x Space Zoom lets you capture incredible details and faraway shots with precision. With a 5,500mAh battery and fast charging, you can keep your phone powered up for longer and never miss a moment.
-
+**S25 Ultra 256gb Titanium WhiteSilver:** [buy on Amazon](https://amzn.to/41Bs3vW)
+**S25 Ultra 256gb Titanium Black:** [buy on Amazon](https://amzn.to/3QxNzeF)
+**S25 Ultra 256gb Titanium Gray:** [buy on Amazon](https://amzn.to/3EUS7ZX)
+**S25 Ultra 256gb Titanium SilverBlue:** [buy on Amazon](https://amzn.to/3EUg83g)
+  
 ** 📸 Best For: Android fans who crave top-tier performance and cutting-edge photography. **
 
 ## 🏆 3. Google Pixel 9 Pro – **Best for Photography**
@@ -39,6 +43,10 @@ The Samsung Galaxy S25 Ultra is an absolute powerhouse for anyone who demands th
 - **💲 Price:** $999
 - **📌 Why We Love It:**
 For those who prioritize photography, the Google Pixel 9 Pro is an absolute winner. With its 64MP camera and Google Gemini AI, it delivers exceptional low-light performance, stunning portrait shots, and AI-driven photo enhancements. The 5,000mAh battery ensures you can capture moments all day long without worrying about running out of juice. The Google Pixel 9 Pro has the best computational photography in the market, making it a photographer’s dream.
+
+**Google Pixel 9 Pro 512gb Hazel:** [buy on Amazon](https://amzn.to/41krmFR)
+**Google Pixel 9 Pro 512gb Obsidian:** [buy on Amazon](https://amzn.to/3EZ5gkH)
+**Google Pixel 9 Pro 512gb Porcelain:** [buy on Amazon](https://amzn.to/4gTh9WA)
 
 ** 📸 Best For: Mobile photographers, AI enthusiasts, and anyone who loves capturing every detail. **
 
