@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 title: "The Ultimate Laptop Buying Guide: Everything You Need to Know"
 date: 2025-02-26
 categories: [laptops, buying-guide, tech]
