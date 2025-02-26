@@ -13,7 +13,20 @@ image: /assets/images/Laptop.png
 
 Buying a laptop can be overwhelming with so many choices available in the market. Whether you’re a student, professional, or gamer, it’s crucial to find a laptop that fits your needs and budget. In this comprehensive guide, we'll walk you through everything you need to consider before making your purchase.
 
-<a href="/laptop-quiz.html">Laptop Recommendation Quiz</a>
+<section id="laptop-quiz">
+  <h2>Find the Perfect Laptop for You</h2>
+  <div id="question-container">
+    <div class="question">
+      <p>What will you mostly use your laptop for?</p>
+      <button onclick="nextQuestion(1)">Gaming</button>
+      <button onclick="nextQuestion(2)">School/Work</button>
+      <button onclick="nextQuestion(3)">Other</button>
+    </div>
+    <!-- More questions go here -->
+  </div>
+</section>
+<script src="laptopscript.js"></script>
+
 
 ## 1. **Identify Your Needs**
 
